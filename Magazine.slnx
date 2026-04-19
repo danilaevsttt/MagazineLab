@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Magazine.Core/Magazine.Core.csproj" />
+  <Project Path="Magazine.WebApi/Magazine.WebApi.csproj" />
+</Solution>
